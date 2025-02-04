@@ -1,0 +1,7 @@
+python-dotenv == 1.0.1
+langchain_chroma == 0.2.1
+langchain_openai == 0.3.3
+langchain_experimental == 0.3.4
+openai == 1.61.0
+fastapi == 0.115.8
+uvicorn == 0.34.0
