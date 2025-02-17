@@ -38,7 +38,7 @@ def get_answer(context, question, stream=True):
     messages=[
         {
             "role": "system",
-            "content": "You are an intelligent assistant to answer user queries related to Ubuntu."
+            "content": "You are an intelligent assistant to answer user queries."
         },
         {
             "role": "user",
